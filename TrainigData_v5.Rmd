@@ -150,7 +150,7 @@ abline(h=0.95, col='grey')
 ```
 
 
-#### Errors and cross-validation
+#### In- / Out-Sample errors and cross-validation
 
 The random forest (RF) algorithm gives the best prediction rate on both the training and the validation datasets. 
 
